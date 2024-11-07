@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7B029DBA-BC6E-4935-AC42-F082483DB5B9}") = "GitHub.Client", "GitHub.Client\GitHub.Client.csproj", "{E0CAE5F1-3BBB-41AD-9290-D00CDC51EBE9}"
+EndProject
+Project("{7B029DBA-BC6E-4935-AC42-F082483DB5B9}") = "GitHub.Client.Tests", "GitHub.Client.Tests\GitHub.Client.Tests.csproj", "{B9B55AE7-CAD1-4A78-B97F-F7E01867D5D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0CAE5F1-3BBB-41AD-9290-D00CDC51EBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CAE5F1-3BBB-41AD-9290-D00CDC51EBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CAE5F1-3BBB-41AD-9290-D00CDC51EBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CAE5F1-3BBB-41AD-9290-D00CDC51EBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B55AE7-CAD1-4A78-B97F-F7E01867D5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B55AE7-CAD1-4A78-B97F-F7E01867D5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B55AE7-CAD1-4A78-B97F-F7E01867D5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B55AE7-CAD1-4A78-B97F-F7E01867D5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
